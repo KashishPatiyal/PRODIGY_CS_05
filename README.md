@@ -1,7 +1,7 @@
 
 ---
 
-## ✅ **TASK 5: Network Packet Analyzer – README.md (DETAILED)**
+## ✅ **TASK 5: Network Packet Analyzer**
 
 ```markdown
 # 📡 Task 5: Network Packet Analyzer
